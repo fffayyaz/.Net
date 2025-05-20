@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool: 
-  vmImage: DESKTOP-3PFTUH7
+  vmImage: FARRCTRX
 
 variables:
   buildConfiguration: 'Release'
